@@ -6,7 +6,7 @@
 - BEe sting
 - things that make me slightly unhappy
 
-sometimes in life you need ** bold statements ** and sometimes you need to be subtle like an _italian_
+sometimes in life you need **bold statements** and sometimes you need to be subtle like an _italian_
 
 ```
 This is code
